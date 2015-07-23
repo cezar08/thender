@@ -28,6 +28,10 @@
             android:name="app.thender.thender.UserActivity"
             android:label="@string/title_activity_user" >
         </activity>
+        <activity
+            android:name="app.thender.thender.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
     </application>
 
 </manifest>

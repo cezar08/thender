@@ -64,19 +64,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/txt_entrar"
-        android:id="@+id/button"
+        android:id="@+id/btnEntrar"
         android:layout_below="@+id/inputSenha"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp" />
-
-    <Button
-        style="?android:attr/buttonStyleSmall"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/txt_criar_conta"
-        android:id="@+id/button2"
-        android:layout_marginTop="30dp"
-        android:layout_below="@+id/button"
-        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

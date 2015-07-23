@@ -45,4 +45,9 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(i);
     }
+
+    public void startLogarConta(View view){
+        Intent i = new Intent(this, LoginActivity.class);
+        startActivity(i);
+    }
 }

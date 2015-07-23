@@ -9,4 +9,5 @@
     <string name="txt_senha">Senha</string>
     <string name="txt_entrar">Entrar</string>
     <string name="txt_criar_conta">Criar conta</string>
+    <string name="txt_logar_conta">Logar conta</string>
 </resources>

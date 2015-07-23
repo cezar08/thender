@@ -2,74 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/libs/gson_2_3_1.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/gson_2_3_1-e404760fca4113ea3c255408451a72d12c86c26d.jar" />
-    </item>
-    <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/classes-5d494324e0a15f517ea1c087d1bfe8cc1bd2aba7.jar" />
-    </item>
-    <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/classes-00c731d4f8c90f2bffc3a71601fc5690f3e4b8a9.jar" />
-    </item>
-    <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/classes-00c731d4f8c90f2bffc3a71601fc5690f3e4b8a9.jar" />
-    </item>
-    <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/libs/gson_2_3_1.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/gson_2_3_1-e404760fca4113ea3c255408451a72d12c86c26d.jar" />
-    </item>
-    <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d4b4478cf8c55d9b7c63e60b5f1fb7b60e4bd93d.jar" />
-    </item>
-    <item
-        jar="/home/cezar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/home/julio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-81533f6b09f61d95b1dc10e588673975576561d5.jar" />
+        <dex dex="/home/julio/android-projects/thender/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-8796cde2adb256bfbff04afcad174fc88f9e6eca.jar" />
     </item>
     <item
-        jar="/home/cezar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/home/julio/android-projects/thender/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-81533f6b09f61d95b1dc10e588673975576561d5.jar" />
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/julio/android-projects/thender/app/build/intermediates/pre-dexed/debug/classes-25df6783417a66bf85932d6c4ce0833383251066.jar" />
     </item>
     <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/home/julio/android-projects/thender/app/libs/gson_2_3_1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/julio/android-projects/thender/app/build/intermediates/pre-dexed/debug/gson_2_3_1-6c0957f7e21b642e032e6e1f5a72d30402349162.jar" />
+    </item>
+    <item
+        jar="/home/julio/android-projects/thender/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/julio/android-projects/thender/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9b4dc1b932d66c04049011983f818228a51cb3ea.jar" />
+    </item>
+    <item
+        jar="/home/julio/android-projects/thender/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/classes-5d494324e0a15f517ea1c087d1bfe8cc1bd2aba7.jar" />
-    </item>
-    <item
-        jar="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/home/cezar/AndroidStudioProjects/Thender/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d4b4478cf8c55d9b7c63e60b5f1fb7b60e4bd93d.jar" />
+        <dex dex="/home/julio/android-projects/thender/app/build/intermediates/pre-dexed/debug/classes-142d9029d52923c4bcdc3b3be2048aadff3b9832.jar" />
     </item>
 
 </items>
