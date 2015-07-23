@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Thender.iml" filepath="$PROJECT_DIR$/Thender.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thender.iml" filepath="$PROJECT_DIR$/thender.iml" />
     </modules>
   </component>
 </project>

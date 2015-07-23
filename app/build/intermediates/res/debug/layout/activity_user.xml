@@ -14,4 +14,4 @@ tools:context="app.thender.thender.UserActivity">
     android:layout_alignParentStart="true"
     android:layout_alignParentTop="true" />
 </RelativeLayout>
-<!-- From: file:/home/cezar/AndroidStudioProjects/Thender/app/src/main/res/layout/activity_user.xml -->
+<!-- From: file:/home/julio/android-projects/thender/app/src/main/res/layout/activity_user.xml -->
