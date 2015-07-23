@@ -1526,7 +1526,6 @@ containing a value of this type.
         public static final int notification_template_icon_bg=0x7f02003b;
     }
     public static final class id {
-        public static final int BtnSigin=0x7f0c0058;
         public static final int action0=0x7f0c0059;
         public static final int action_bar=0x7f0c0040;
         public static final int action_bar_activity_content=0x7f0c0000;
@@ -1547,8 +1546,9 @@ containing a value of this type.
         public static final int alertTitle=0x7f0c0030;
         public static final int always=0x7f0c0016;
         public static final int beginning=0x7f0c0013;
-        public static final int button=0x7f0c0054;
-        public static final int button2=0x7f0c0055;
+        public static final int btnCriarConta=0x7f0c0058;
+        public static final int btnEntrar=0x7f0c0054;
+        public static final int btnLogarConta=0x7f0c0057;
         public static final int buttonPanel=0x7f0c0036;
         public static final int cancel_action=0x7f0c005a;
         public static final int checkbox=0x7f0c0038;
@@ -1562,7 +1562,6 @@ containing a value of this type.
         public static final int dialog=0x7f0c001b;
         public static final int disableHome=0x7f0c000c;
         public static final int dropdown=0x7f0c001c;
-        public static final int editText=0x7f0c0056;
         public static final int edit_query=0x7f0c0042;
         public static final int end=0x7f0c0014;
         public static final int end_padder=0x7f0c0065;
@@ -1609,7 +1608,6 @@ containing a value of this type.
         public static final int showCustom=0x7f0c000f;
         public static final int showHome=0x7f0c0010;
         public static final int showTitle=0x7f0c0011;
-        public static final int sigupText=0x7f0c0057;
         public static final int split_action_bar=0x7f0c0007;
         public static final int src_atop=0x7f0c0020;
         public static final int src_in=0x7f0c0021;
@@ -1625,7 +1623,9 @@ containing a value of this type.
         public static final int title=0x7f0c002c;
         public static final int title_template=0x7f0c002f;
         public static final int topPanel=0x7f0c002e;
+        public static final int txtCriarConta=0x7f0c0056;
         public static final int txtEmail=0x7f0c0050;
+        public static final int txtLogarConta=0x7f0c0055;
         public static final int txtThender=0x7f0c004f;
         public static final int up=0x7f0c0008;
         public static final int useLogo=0x7f0c0012;
@@ -1717,7 +1717,8 @@ containing a value of this type.
         public static final int txt_criar_conta=0x7f060017;
         public static final int txt_email=0x7f060018;
         public static final int txt_entrar=0x7f060019;
-        public static final int txt_senha=0x7f06001a;
+        public static final int txt_logar_conta=0x7f06001a;
+        public static final int txt_senha=0x7f06001b;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080073;

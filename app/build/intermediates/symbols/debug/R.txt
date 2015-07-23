@@ -409,7 +409,6 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f020038
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f020039
 int drawable abc_textfield_search_material 0x7f02003a
 int drawable notification_template_icon_bg 0x7f02003b
-int id BtnSigin 0x7f0c0058
 int id action0 0x7f0c0059
 int id action_bar 0x7f0c0040
 int id action_bar_activity_content 0x7f0c0000
@@ -430,8 +429,9 @@ int id activity_chooser_view_content 0x7f0c0026
 int id alertTitle 0x7f0c0030
 int id always 0x7f0c0016
 int id beginning 0x7f0c0013
-int id button 0x7f0c0054
-int id button2 0x7f0c0055
+int id btnCriarConta 0x7f0c0058
+int id btnEntrar 0x7f0c0054
+int id btnLogarConta 0x7f0c0057
 int id buttonPanel 0x7f0c0036
 int id cancel_action 0x7f0c005a
 int id checkbox 0x7f0c0038
@@ -445,7 +445,6 @@ int id default_activity_button 0x7f0c0029
 int id dialog 0x7f0c001b
 int id disableHome 0x7f0c000c
 int id dropdown 0x7f0c001c
-int id editText 0x7f0c0056
 int id edit_query 0x7f0c0042
 int id end 0x7f0c0014
 int id end_padder 0x7f0c0065
@@ -492,7 +491,6 @@ int id shortcut 0x7f0c0039
 int id showCustom 0x7f0c000f
 int id showHome 0x7f0c0010
 int id showTitle 0x7f0c0011
-int id sigupText 0x7f0c0057
 int id split_action_bar 0x7f0c0007
 int id src_atop 0x7f0c0020
 int id src_in 0x7f0c0021
@@ -508,7 +506,9 @@ int id time 0x7f0c005f
 int id title 0x7f0c002c
 int id title_template 0x7f0c002f
 int id topPanel 0x7f0c002e
+int id txtCriarConta 0x7f0c0056
 int id txtEmail 0x7f0c0050
+int id txtLogarConta 0x7f0c0055
 int id txtThender 0x7f0c004f
 int id up 0x7f0c0008
 int id useLogo 0x7f0c0012
@@ -590,7 +590,8 @@ int string title_activity_user 0x7f060016
 int string txt_criar_conta 0x7f060017
 int string txt_email 0x7f060018
 int string txt_entrar 0x7f060019
-int string txt_senha 0x7f06001a
+int string txt_logar_conta 0x7f06001a
+int string txt_senha 0x7f06001b
 int style AlertDialog_AppCompat 0x7f080073
 int style AlertDialog_AppCompat_Light 0x7f080074
 int style Animation_AppCompat_Dialog 0x7f080075

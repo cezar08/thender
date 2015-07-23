@@ -211,6 +211,7 @@
     <string name="txt_criar_conta">Criar conta</string>
     <string name="txt_email">Email</string>
     <string name="txt_entrar">Entrar</string>
+    <string name="txt_logar_conta">Logar conta</string>
     <string name="txt_senha">Senha</string>
     <!-- From: file:/home/julio/android-projects/thender/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
